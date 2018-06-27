@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{52735848-01BF-4609-97AD-B8150F0161FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B7E71C39-6F65-47D3-AE3C-6369BE8CD228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narato.ResponseMiddleware.Models.Mvc", "src\Narato.ResponseMiddleware.Models.Mvc\Narato.ResponseMiddleware.Models.Mvc.csproj", "{D824559C-AFAF-4648-9855-23620743F20F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D824559C-AFAF-4648-9855-23620743F20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D824559C-AFAF-4648-9855-23620743F20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D824559C-AFAF-4648-9855-23620743F20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D824559C-AFAF-4648-9855-23620743F20F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D824559C-AFAF-4648-9855-23620743F20F} = {52735848-01BF-4609-97AD-B8150F0161FF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3867C9EE-EE1D-49AA-B1DE-FDA401BB2F98}
+	EndGlobalSection
+EndGlobal
