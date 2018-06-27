@@ -4,7 +4,7 @@
     <Description>Library containing all the core MVC models needed for using the Narato ResponseMiddleware stack</Description>
     <AssemblyTitle>Narato.ResponseMiddleware.Models.Mvc</AssemblyTitle>
     <NeutralLanguage>en-us</NeutralLanguage>
-    <VersionPrefix>2.0.1</VersionPrefix>
+    <VersionPrefix>2.0.0</VersionPrefix>
     <Authors>Narato - http://www.narato.be</Authors>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <AssemblyName>Narato.ResponseMiddleware.Models.Mvc</AssemblyName>
